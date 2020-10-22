@@ -3,7 +3,7 @@ import React from 'react'
 const prostor = () => {
     return (
         <div>
-                prostor
+                prosto
         </div>
     )
 }
