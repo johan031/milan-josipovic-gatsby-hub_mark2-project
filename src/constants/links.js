@@ -8,25 +8,25 @@ export default [
     text: "O Nama",
   },
   {
-    path: "/incubator",
-    text: "Inkubator",
-  },
-  {
-    path: "/companies",
-    text: "Kompanije",
-  },
-  {
-    path: "/services",
-    text: "Usluge",
+    path: "/dogadjaji",
+    text: "Dogadjaji",
   },
   {
     path: "/vesti",
     text: "Vesti",
   },
   {
-    path: "/gallery",
-    text: "Galerija",
+    path: "/prostor",
+    text: "Prostor",
   },
+  {
+    path: "/stanari",
+    text: "Stanari",
+  },
+  // {
+  //   path: "/gallery",
+  //   text: "Galerija",
+  // },
   {
     path: "/announcement",
     text: "Objave",
