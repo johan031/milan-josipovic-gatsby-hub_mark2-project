@@ -11,7 +11,6 @@ const Navbar = () => {
     setNav(isOpen => !isOpen)
   }
   return (
-    
     <nav className={styles.navbar}>
       <div className={styles.navCenter}>
         <div className={styles.navHeader}>
